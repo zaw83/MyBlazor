@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19b8965e-d35e-42d5-9990-b86d70027440": {
+      "ProjectGuid": "19b8965e-d35e-42d5-9990-b86d70027440",
+      "DisplayName": "EmployeeManagement.Models",
+      "ColorIndex": 0
+    },
+    "22d0a347-7f7d-4bcc-91e0-5a4765ad7634": {
+      "ProjectGuid": "22d0a347-7f7d-4bcc-91e0-5a4765ad7634",
+      "DisplayName": "EmployeeManagement.Web",
+      "ColorIndex": 1
+    },
+    "ed1ec068-ca50-4ac9-9261-85f13816fa8e": {
+      "ProjectGuid": "ed1ec068-ca50-4ac9-9261-85f13816fa8e",
+      "DisplayName": "EmployeeManagement.Web",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

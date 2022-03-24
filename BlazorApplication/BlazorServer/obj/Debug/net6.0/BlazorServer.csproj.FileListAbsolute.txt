@@ -25,3 +25,30 @@ D:\MyCode\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\Blazor
 D:\MyCode\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\ref\BlazorServer.dll
 D:\MyCode\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.pdb
 D:\MyCode\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.genruntimeconfig.cache
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\appsettings.Development.json
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\appsettings.json
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\BlazorServer.staticwebassets.runtime.json
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\BlazorServer.exe
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\BlazorServer.deps.json
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\BlazorServer.runtimeconfig.json
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\BlazorServer.dll
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\ref\BlazorServer.dll
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\bin\Debug\net6.0\BlazorServer.pdb
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.csproj.AssemblyReference.cache
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.AssemblyInfoInputs.cache
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.AssemblyInfo.cs
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.csproj.CoreCompileInputs.cache
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.MvcApplicationPartsAssemblyInfo.cache
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.RazorAssemblyInfo.cache
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.RazorAssemblyInfo.cs
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\staticwebassets.build.json
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\staticwebassets.development.json
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\scopedcss\bundle\BlazorServer.styles.css
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\scopedcss\projectbundle\BlazorServer.bundle.scp.css
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.dll
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\ref\BlazorServer.dll
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.pdb
+E:\My Project\Blazor\MyBlazor\BlazorApplication\BlazorServer\obj\Debug\net6.0\BlazorServer.genruntimeconfig.cache

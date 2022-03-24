@@ -1,4 +1,5 @@
 ﻿@page "/counter"
+@inherits CounterBase
 
 <PageTitle>Counter</PageTitle>
 
@@ -10,11 +11,3 @@
 
 
 
-@code {
-    private int currentCount = 0;
-
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
-}
