@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DrZaw\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\MrZaw\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Project\\Blazor\\MyBlazor\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "D:\\MyCode\\Blazor\\MyBlazor\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "E:\\My Project\\Blazor\\MyBlazor\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
-      "packagesPath": "C:\\Users\\DrZaw\\.nuget\\packages\\",
-      "outputPath": "E:\\My Project\\Blazor\\MyBlazor\\BlazorApp\\BlazorApp\\obj\\",
+      "projectPath": "D:\\MyCode\\Blazor\\MyBlazor\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
+      "packagesPath": "C:\\Users\\MrZaw\\.nuget\\packages\\",
+      "outputPath": "D:\\MyCode\\Blazor\\MyBlazor\\BlazorApp\\BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DrZaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\MrZaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -68,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3f3330a-5b7f-4f55-9543-34c644c8da96": {
+      "ProjectGuid": "e3f3330a-5b7f-4f55-9543-34c644c8da96",
+      "DisplayName": "BlazorServer",
+      "ColorIndex": 0
+    },
+    "4eeef26e-799b-471d-b6f2-c4161c027720": {
+      "ProjectGuid": "4eeef26e-799b-471d-b6f2-c4161c027720",
+      "DisplayName": "BlazorWebAssemply",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
